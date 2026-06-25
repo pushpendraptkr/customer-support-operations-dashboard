@@ -88,7 +88,7 @@ This page provides an executive summary of customer support operations.
 
 ### Dashboard Preview
 
-![Operations Overview](Customer-Support-Overview.png)
+![Operations Overview](CSOD-Overview.png)
 
 ---
 
