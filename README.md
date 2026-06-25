@@ -245,7 +245,7 @@ GitHub:
 https://github.com/pushpendraptkr
 
 LinkedIn:
-[(Add your LinkedIn profile URL)](https://www.linkedin.com/in/pushpendra-patkar-084757205/)
+[https://www.linkedin.com/in/pushpendra-patkar-084757205/]
 
 ---
 
